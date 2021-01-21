@@ -6,7 +6,8 @@ ezoom.js is a jQuery plugin for simple Image with zoom effect.
 
 This plugin in under development to support Next/Prev a gallery Images/SVG later.
 
-You can find the demo here: [https://leqnam.github.io/ezoom](https://leqnam.github.io/ezoom)
+You can find the repository at: [https://github.com/leqnam/ezoom](https://github.com/leqnam/ezoom) 
+and demo here: [https://leqnam.github.io/ezoom/demo/](https://leqnam.github.io/ezoom/demo/)
 
 ## Table of contents
 - [Installation](#Installation)
@@ -136,7 +137,7 @@ The events can be used look like:
 This plugin has been developed to use in my internal project to replace panzoom (https://github.com/anvaka/panzoom) - that has some issues with rotate.
 
 An blog has been released: 
-- in Vietnamese: https://nready.net/ezoom
+- in English: https://nready.net/ezoom and https://leqnam.github.io/ezoom/
 
 <br>
 <hr>
